@@ -1,0 +1,1 @@
+char[] scharArray=s.toCharArray();
